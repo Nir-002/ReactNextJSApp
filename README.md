@@ -1,2 +1,2 @@
 # ReactNextJSApp
-An app using Next.JS backend and React.JS
+An app built with ReactJS and NextJS
